@@ -19,5 +19,6 @@ public class lab7 {
             r = ans;
         }
         System.out.println(ans);
+        scanner.close();
     }
 }
