@@ -1,5 +1,5 @@
 
-// if we have a html document where we want to check if all the tags are in their right place
+// if we have a HTML document where we want to check if all the tags are in their right place
 
 import java.util.*;
 
@@ -61,7 +61,6 @@ public class lab5_3 {
             if (part.charAt(i) == '>')
                 break; // nema da go smestive vo result
             result += part.charAt(i);
-
         }
         return result;
     }
