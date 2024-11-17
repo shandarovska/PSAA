@@ -19,6 +19,7 @@ public class lab3 {
                 matrix[i][j] = scanner.nextInt();
             }
         }
+
         rotirajBonus(matrix, N);
         rotirajBonus1(matrix, N);
         rotiraj(matrix, N);
