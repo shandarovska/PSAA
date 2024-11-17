@@ -62,7 +62,6 @@ public class lab2 {
                 return false;
             }
         }
-
         return true;
     }
 
