@@ -143,7 +143,7 @@ public class SpoiString {
             }
             if (tmp != null && tmp.data.equals(",")) {
                 list1.insertLast(",");
-                tmp = tmp.next; // Move to the next node
+                tmp = tmp.next;
             }
 
         }
