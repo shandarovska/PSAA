@@ -8,9 +8,6 @@
 Да се напише главна програма во која ќе се внесе еден магацин и во која ќе се повика и тестира
 работата на функцијата.  */
 import java.util.*;
-
-
-
 public class zad2 {
     
     public static void main(String[] args) {
