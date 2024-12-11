@@ -166,9 +166,6 @@ public class lab2 {
             return false;
         if (r.info == i)
             return true;
-        search(r.left, i);
-        search(r.right, i);
-
-        return false;
+        return search(r.left, i) || search(r.right, i);
     }
 }
